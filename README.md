@@ -1,20 +1,20 @@
-# 🔥 Personal Firewall using Python
+# Personal Firewall using Python
 
 A lightweight and customizable personal firewall developed using Python. It monitors network traffic in real-time, allows/blocks traffic based on user-defined rules, and supports GUI-based monitoring.
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ Real-time packet sniffing using Scapy
-- ✅ Customizable rules for IP, port, and protocol filtering
-- ✅ Logging of suspicious or dropped packets
-- ✅ Optional system-level rule enforcement using `iptables` (Linux only)
-- ✅ GUI interface (Tkinter) for live monitoring and rule management
+-  Real-time packet sniffing using Scapy
+-  Customizable rules for IP, port, and protocol filtering
+-  Logging of suspicious or dropped packets
+-  Optional system-level rule enforcement using `iptables` (Linux only)
+-  GUI interface (Tkinter) for live monitoring and rule management
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 personal-firewall-python/
@@ -32,7 +32,7 @@ personal-firewall-python/
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python 3.x  
 - [Scapy](https://scapy.readthedocs.io/en/latest/) – Packet sniffing and analysis  
@@ -42,7 +42,7 @@ personal-firewall-python/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Sniffs** incoming and outgoing packets using Scapy.
 2. **Applies rules** defined in `rules.json` (e.g., block IPs, specific ports).
@@ -55,7 +55,7 @@ personal-firewall-python/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install Dependencies
 
@@ -75,11 +75,11 @@ sudo python3 firewall.py
 sudo python3 gui.py
 ```
 
-> 🔒 Note: Root privileges (`sudo`) are required to sniff packets and manage iptables rules.
+>  Note: Root privileges (`sudo`) are required to sniff packets and manage iptables rules.
 
 ---
 
-## 🧾 Rule Format (`rules.json`)
+##  Rule Format (`rules.json`)
 
 ```json
 [
@@ -102,7 +102,7 @@ sudo python3 gui.py
 
 ---
 
-## 🗂️ Logs
+## Logs
 
 All suspicious or dropped packets are saved to:
 
@@ -119,7 +119,7 @@ Each entry includes:
 
 ---
 
-## 📝 Project Report
+## Project Report
 
 The full report is available in the `report/` folder:
 
@@ -127,13 +127,13 @@ The full report is available in the `report/` folder:
 
 ---
 
-## 📃 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to fork and modify!
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 Developed by: *Rahi Shah*  
 GitHub: [github.com/yourusername](https://github.com/rahi1701)
