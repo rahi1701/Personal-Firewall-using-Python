@@ -1,0 +1,8 @@
+[
+  {
+    "action": "block",
+    "protocol": "TCP",
+    "src_ip": "192.168.1.100",
+    "dst_port": 22
+  }
+]
