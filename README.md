@@ -136,4 +136,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to fork and
 ##  Author
 
 Developed by: *Rahi Shah*  
-GitHub: [github.com/yourusername](https://github.com/rahi1701)
+GitHub: (https://github.com/rahi1701)
