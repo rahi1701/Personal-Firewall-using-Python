@@ -135,5 +135,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to fork and
 
 ## 🙋‍♂️ Author
 
-Developed by: *Your Name*  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+Developed by: *Rahi Shah*  
+GitHub: [github.com/yourusername](https://github.com/rahi1701)
